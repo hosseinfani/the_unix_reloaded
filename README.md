@@ -11,7 +11,7 @@ This course introduces students to advanced software development techniques in s
 <p align="center">
     <img src="./Instructor.PNG", alt="System Progragramming: Instructor">
     <br>     
-    <img src="./Book.PNG", alt="System Progragramming: Book">
+    <img src="./Book.jpg", alt="System Progragramming: Book">
     <br>     
     <img src="./GATA.PNG", alt="System Progragramming: Gratudate and Teaching Assistants">
     <br>     
