@@ -1,17 +1,17 @@
 # System Progragramming 
-Materials for the Computer Science Course "System Progragramming"
 <p align="center">
     <img src="./Banner.png", alt="System Progragramming: Course Banner">
-    <br>
-    <a href="https://www.artseiller.com/en/nicolas-lavarenne-en">https://www.artseiller.com/en/nicolas-lavarenne-en</a> 
+    <p align="right">
+        <a href="https://www.artseiller.com/en/nicolas-lavarenne-en">https://www.artseiller.com/en/nicolas-lavarenne-en</a> 
+    </p>    
 </p>
 
 This course introduces students to advanced software development techniques in system programming using the C language in the ``UNIX`` environment. Topics include introduction to modern operating systems, system calls, managing processes, the use of ``fork`` and ``exec``, signals, file processing, filters, pipes, scripting languages, introduction to concurrency (e.g. synchronization), network programming (e.g. using sockets), client-server problems.
 
-<p align="center">
+<p align="left">
     <img src="./Instructor.PNG", alt="System Progragramming: Instructor">
     <br>     
-    <img src="./Book.jpg", alt="System Progragramming: Book">
+    <img src="./Book.jpg", alt="System Progragramming: Book" width="200">
     <br>     
     <img src="./GATA.PNG", alt="System Progragramming: Gratudate and Teaching Assistants">
     <br>     
