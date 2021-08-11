@@ -9,11 +9,11 @@ Materials for the Computer Science Course "System Progragramming"
 This course introduces students to advanced software development techniques in system programming using the C language in the ``UNIX`` environment. Topics include introduction to modern operating systems, system calls, managing processes, the use of ``fork`` and ``exec``, signals, file processing, filters, pipes, scripting languages, introduction to concurrency (e.g. synchronization), network programming (e.g. using sockets), client-server problems.
 
 <p align="center">
-    <img src="./Misc/Instructor.PNG", alt="System Progragramming: Instructor">
+    <img src="./Instructor.PNG", alt="System Progragramming: Instructor">
     <br>     
-    <img src="./Misc/Book.PNG", alt="System Progragramming: Book">
+    <img src="./Book.PNG", alt="System Progragramming: Book">
     <br>     
-    <img src="./Misc/GA_TA.PNG", alt="System Progragramming: Gratudate and Teaching Assistants">
+    <img src="./GATA.PNG", alt="System Progragramming: Gratudate and Teaching Assistants">
     <br>     
 </p>
 
