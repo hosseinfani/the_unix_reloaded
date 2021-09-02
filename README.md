@@ -13,7 +13,7 @@ This course introduces students to advanced software development techniques in s
     <br>     
     <img src="./Book.jpg", alt="System Progragramming: Book" width="200">
     <br>     
-    <img src="./Misc/gata.jpg", alt="System Progragramming: Gratudate and Teaching Assistants">
+    <img src="./Misc/gata.JPG", alt="System Progragramming: Gratudate and Teaching Assistants">
     <br>     
 </p>
 
