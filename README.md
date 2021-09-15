@@ -1,5 +1,5 @@
 # The Unix Reloaded! 
-Materials for the Computer Science course System Progragramming.
+Materials for the Computer Science course System Programming.
 <p align="center">
     <img src="./Banner.png", alt="System Programming: Course Banner">
     <p align="right">
