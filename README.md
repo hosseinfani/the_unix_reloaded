@@ -1,6 +1,7 @@
-# System Progragramming 
+# The Unix Reloaded! 
+Materials for the Computer Science course System Progragramming.
 <p align="center">
-    <img src="./Banner.png", alt="System Progragramming: Course Banner">
+    <img src="./Banner.png", alt="System Programming: Course Banner">
     <p align="right">
         <a href="https://www.artseiller.com/en/nicolas-lavarenne-en">https://www.artseiller.com/en/nicolas-lavarenne-en</a> 
     </p>    
