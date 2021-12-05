@@ -3,7 +3,7 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <arpa/inet.h>
-
+#include <unistd.h>
 #include <stdio.h>
 #include <string.h>
 int main(void){
@@ -52,13 +52,22 @@ int main(void){
 			printf("error in opening the request from client %d:%d !\n", client_sin.sin_addr, client_sin.sin_port);
 			//exit(1);Do not exit. Go for the next client call
 		}
-		else
+		else{
 			printf("The Server opened the request from client %d:%d\n", client_sin.sin_addr, client_sin.sin_port);
 
-		char msg[10];
-		recv(result, msg, 10, 0);
-		printf("%s\n", msg);
-		send(result, "hello back", 11, 0);
+			int child_pid = fork();
+			if(child_pid == 0){//child
+				printf("Child: I The Server's child to handle the communication with the client %d:%d\n", client_sin.sin_addr, client_sin.sin_port);
+
+				char msg[10];
+				recv(result, msg, 10, 0);
+				printf("%s\n", msg);
+				for(int i=0; i<100; ++i){
+					send(result, "hello back", 11, 0);
+					sleep(1);
+				}
+			}
+		}
 	}
 
 }

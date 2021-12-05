@@ -42,7 +42,8 @@ int main(void){
 
 	char response[10];
 	send(client_sd, "hello", 6, 0);
-	recv(client_sd, response, 10, 0);
-	printf("%s\n", response);
+	while(recv(client_sd, response, 10, 0) > 0){
+		printf("%s\n", response);
+	}
 
 }
