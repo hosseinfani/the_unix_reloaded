@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="199.03955mm"
+   height="259.62149mm"
+   viewBox="0 0 199.03955 259.62149"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2">
+    <rect
+       x="75.772545"
+       y="145.26854"
+       width="51.340858"
+       height="15.501465"
+       id="rect1108" />
+    <rect
+       x="15.875816"
+       y="24.749159"
+       width="59.654549"
+       height="18.601961"
+       id="rect847" />
+    <rect
+       x="7.2571473"
+       y="6.501195"
+       width="167.21664"
+       height="35.68095"
+       id="rect12" />
+    <rect
+       x="15.875816"
+       y="24.749159"
+       width="59.654549"
+       height="18.601961"
+       id="rect847-3" />
+    <rect
+       x="15.875816"
+       y="24.749159"
+       width="59.654549"
+       height="18.601961"
+       id="rect847-2" />
+    <rect
+       x="15.875816"
+       y="24.749159"
+       width="59.654549"
+       height="18.601961"
+       id="rect847-6" />
+    <rect
+       x="15.875816"
+       y="24.749159"
+       width="59.654549"
+       height="18.601961"
+       id="rect847-8" />
+    <rect
+       x="15.875816"
+       y="24.749159"
+       width="59.654549"
+       height="18.601961"
+       id="rect847-8-5" />
+    <rect
+       x="15.875816"
+       y="24.749159"
+       width="59.654549"
+       height="18.601961"
+       id="rect847-8-9" />
+    <rect
+       x="75.772545"
+       y="145.26854"
+       width="51.340858"
+       height="15.501465"
+       id="rect1108-2" />
+    <rect
+       x="15.875816"
+       y="24.749159"
+       width="59.654549"
+       height="18.601961"
+       id="rect847-8-9-3" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(2.0966062,1.9118729)"
+     style="opacity:1">
+    <rect
+       style="fill:#b97a57;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1662"
+       width="199.03955"
+       height="259.62149"
+       x="-2.0966063"
+       y="-1.911871" />
+    <text
+       xml:space="preserve"
+       id="text10"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         x="7.2578125"
+         y="16.131435"><tspan>Computer booting sequence</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-20.259516"
+       y="-7.1059475"
+       id="text18"><tspan
+         id="tspan16"
+         x="-20.259516"
+         y="-7.1059475"
+         style="stroke-width:0.264583" /></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect20"
+       width="59.654545"
+       height="18.601961"
+       x="15.875816"
+       y="24.749159"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       id="text845"
+       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect847);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-0.01290574,4.0090302)"
+       x="15.013842"
+       y="0"><tspan
+         x="30.01989"
+         y="28.280825"><tspan
+           style="shape-inside:url(#rect847)">User presses the 
+</tspan></tspan><tspan
+         x="33.283421"
+         y="33.131526"><tspan
+           style="shape-inside:url(#rect847)">power button </tspan></tspan></text>
+    <path
+       d="m 45.418519,58.42102 c -1.109579,-2.452398 -2.227421,-4.901045 -3.335348,-7.353979 0.31844,-0.0022 0.63743,0 0.95642,-0.0016 0.0022,-2.571347 5.42e-4,-5.143231 0.0011,-7.714576 1.674286,-6.08e-4 3.348571,-10e-4 5.022856,0 0.0016,2.571881 -0.0016,5.143229 0.0016,7.715111 0.317889,0.0011 0.636328,-0.0011 0.954767,5.27e-4 -1.150899,2.537591 -2.299594,5.076789 -3.457104,7.611166 -0.07878,-0.0643 -0.09917,-0.170386 -0.144345,-0.256652 z"
+       id="path102"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.219113;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect20-6"
+       width="59.654545"
+       height="18.601961"
+       x="16.118246"
+       y="58.710144"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       id="text845-7"
+       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect847-3);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(0.26685715,36.26486)"
+       x="29.509661"
+       y="0"><tspan
+         x="21.461316"
+         y="28.280825"><tspan
+           style="text-align:center;text-anchor:middle">CPU executes a hardcoded
+</tspan></tspan><tspan
+         x="19.138815"
+         y="33.131526"><tspan
+           style="text-align:center;text-anchor:middle"> JUMP instruction from a CPU </tspan></tspan><tspan
+         x="38.626944"
+         y="37.982226"><tspan
+           style="text-align:center;text-anchor:middle">register</tspan></tspan></text>
+    <path
+       d="m 45.418519,92.382002 c -1.109579,-2.452398 -2.227421,-4.901045 -3.335348,-7.353979 0.31844,-0.0022 0.63743,0 0.95642,-0.0016 0.0022,-2.571347 5.42e-4,-5.143231 0.0011,-7.714576 1.674286,-6.08e-4 3.348571,-0.001 5.022856,0 0.0016,2.571881 -0.0016,5.143229 0.0016,7.715111 0.317889,0.0011 0.636328,-0.0011 0.954767,5.27e-4 -1.150899,2.537591 -2.299594,5.076789 -3.457104,7.611166 -0.07878,-0.0643 -0.09917,-0.170386 -0.144345,-0.256652 z"
+       id="path102-5"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.219113;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect20-0"
+       width="59.654545"
+       height="18.601961"
+       x="16.118246"
+       y="92.657928"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       id="text845-9"
+       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect847-2);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(0.32031977,70.185799)"
+       x="28.712202"
+       y="0"><tspan
+         x="21.275048"
+         y="28.280825"><tspan
+           style="text-align:center;text-anchor:middle">CPU jumps to a predefined </tspan></tspan><tspan
+         x="23.052342"
+         y="33.131526"><tspan
+           style="text-align:center;text-anchor:middle">memory location in ROM
+</tspan></tspan><tspan
+         x="25.398143"
+         y="37.982226"><tspan
+           style="text-align:center;text-anchor:middle"> where BIOS is located</tspan></tspan></text>
+    <path
+       d="m 45.418566,126.32981 c -1.109579,-2.4524 -2.227421,-4.90105 -3.335348,-7.35398 0.31844,-0.002 0.63743,0 0.95642,-0.002 0.0022,-2.57135 5.42e-4,-5.14324 0.0011,-7.71458 1.674286,-6.1e-4 3.348571,-10e-4 5.022856,0 0.0016,2.57188 -0.0016,5.14323 0.0016,7.71511 0.317889,10e-4 0.636328,-0.001 0.954767,5.3e-4 -1.150899,2.53759 -2.299594,5.07679 -3.457104,7.61117 -0.07878,-0.0643 -0.09917,-0.17039 -0.144345,-0.25666 z"
+       id="path102-3"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.219113;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect20-62"
+       width="59.654545"
+       height="18.601961"
+       x="16.118"
+       y="126.66658"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       id="text845-6"
+       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect847-6);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-0.19461661,105.92643)"
+       x="23.735386"
+       y="0"><tspan
+         x="21.861024"
+         y="28.280825"><tspan
+           style="text-align:center;text-anchor:middle">CPU starts executing BIOS </tspan></tspan><tspan
+         x="29.121527"
+         y="33.131526"><tspan
+           style="text-align:center;text-anchor:middle">directly from ROM</tspan></tspan></text>
+    <path
+       d="m 45.418566,160.33844 c -1.109579,-2.4524 -2.227421,-4.90105 -3.335348,-7.35398 0.31844,-0.002 0.63743,0 0.95642,-0.002 0.0022,-2.57135 5.42e-4,-5.14323 0.0011,-7.71458 1.674286,-6e-4 3.348571,-0.001 5.022856,0 0.0016,2.57188 -0.0016,5.14323 0.0016,7.71511 0.317889,0.001 0.636328,-0.001 0.954767,5.3e-4 -1.150899,2.53759 -2.299594,5.07679 -3.457104,7.61117 -0.07878,-0.0643 -0.09917,-0.17039 -0.144345,-0.25665 z"
+       id="path102-1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.219113;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect20-2"
+       width="59.654545"
+       height="18.601961"
+       x="16.118"
+       y="160.77017"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       id="text845-0"
+       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect847-8);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(0.04149306,140.55919)"
+       x="26.548786"
+       y="0"><tspan
+         x="19.076727"
+         y="28.280825"><tspan
+           style="text-align:center;text-anchor:middle">BIOS performs hardware test </tspan></tspan><tspan
+         x="27.586776"
+         y="33.131526"><tspan
+           style="text-align:center;text-anchor:middle">(Power On Self Test)</tspan></tspan></text>
+    <path
+       d="m 45.418611,194.44202 c -1.109579,-2.4524 -2.227421,-4.90105 -3.335348,-7.35398 0.31844,-0.002 0.63743,0 0.95642,-0.002 0.0022,-2.57135 5.42e-4,-5.14323 0.0011,-7.71458 1.674286,-6e-4 3.348571,-0.001 5.022856,0 0.0016,2.57189 -0.0016,5.14323 0.0016,7.71512 0.317889,0.001 0.636328,-0.001 0.954767,5.2e-4 -1.150899,2.53759 -2.299594,5.07679 -3.457104,7.61117 -0.07878,-0.0643 -0.09917,-0.17039 -0.144345,-0.25665 z"
+       id="path102-2"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.219113;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="75.772545"
+       y="160.77017"
+       id="text1018"><tspan
+         id="tspan1016"
+         x="75.772545"
+         y="160.77017"
+         style="stroke-width:0.264583" /></text>
+    <path
+       d="m 126.05951,169.8489 c -8.19905,1.10957 -16.38558,2.22742 -24.5864,3.33534 -0.007,-0.31844 0,-0.63743 -0.007,-0.95642 -8.596744,-0.002 -17.195254,-5.4e-4 -25.791992,-0.001 -0.002,-1.67428 -0.0033,-3.34857 0,-5.02285 8.598543,-0.002 17.195248,0.002 25.793792,-0.002 0.004,-0.31789 -0.004,-0.63633 0.002,-0.95477 8.48387,1.1509 16.97312,2.29959 25.44626,3.4571 -0.21498,0.0788 -0.56967,0.0992 -0.85806,0.14435 z"
+       id="path102-2-3"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40064;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect20-2-7"
+       width="59.654545"
+       height="18.601961"
+       x="127.1134"
+       y="160.77"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       id="text845-0-9"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect847-8-5);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(110.94242,141.78061)"
+       x="26.548786"
+       y="0"><tspan
+         x="26.50078"
+         y="29.885736"><tspan
+           style="font-weight:bold;font-size:5.64444px">Booting Halts</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1106"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1108);fill:#ffffff;fill-opacity:1;stroke:none;"
+       transform="matrix(1.3846222,0,0,1.3846222,-22.05064,-47.464295)"><tspan
+         x="75.773438"
+         y="149.76135"><tspan
+           style="shape-inside:url(#rect1108)">If POST fails</tspan></tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect20-2-73"
+       width="59.654545"
+       height="18.601961"
+       x="16.118"
+       y="194.83514"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       id="text845-0-6"
+       style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect847-8-9);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-0.43324356,172.45073)"
+       x="26.548786"
+       y="0"><tspan
+         x="18.290916"
+         y="28.280825"><tspan
+           style="text-align:center;text-anchor:middle">BIOS loads partition table into </tspan></tspan><tspan
+         x="22.856392"
+         y="33.131526"><tspan
+           style="text-align:center;text-anchor:middle">RAM, first partition starts </tspan></tspan><tspan
+         x="20.865663"
+         y="37.982226"><tspan
+           style="text-align:center;text-anchor:middle">execution of it's bootloader </tspan></tspan></text>
+    <path
+       d="m 45.418566,228.60145 c -1.109579,-2.4524 -2.227421,-4.90105 -3.335348,-7.35398 0.31844,-0.002 0.63743,0 0.95642,-0.002 0.0022,-2.57135 5.42e-4,-5.14323 0.0011,-7.71458 1.674286,-6e-4 3.348571,-0.001 5.022856,0 0.0016,2.57189 -0.0016,5.14323 0.0016,7.71512 0.317889,10e-4 0.636328,-0.001 0.954767,5.2e-4 -1.150899,2.53759 -2.299594,5.07679 -3.457104,7.61117 -0.07878,-0.0643 -0.09917,-0.17039 -0.144345,-0.25665 z"
+       id="path102-2-1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.219113;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="16.118"
+       y="194.83514"
+       id="text1214"><tspan
+         id="tspan1212"
+         x="16.118"
+         y="194.83514"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       id="text1106-9"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1108-2);fill:#ffffff;fill-opacity:1;stroke:none;"
+       transform="matrix(1.3846222,0,0,1.3846222,-51.758689,-18.363509)"><tspan
+         x="75.773438"
+         y="149.76135"><tspan
+           style="shape-inside:url(#rect1108-2)">If POST succeeds</tspan></tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect20-2-73-1"
+       width="59.654545"
+       height="18.601961"
+       x="16.118"
+       y="228.93266"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       id="text845-0-6-9"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect847-8-9-3);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(0.03696016,206.54822)"
+       x="26.548786"
+       y="0"><tspan
+         x="28.346484"
+         y="27.95984"><tspan
+           style="text-align:center;text-anchor:middle">Bootloader initializes
+</tspan></tspan><tspan
+         x="20.924054"
+         y="32.369565"><tspan
+           style="text-align:center;text-anchor:middle">second stage, loads OS kernel
+</tspan></tspan><tspan
+         x="18.56574"
+         y="36.77929"><tspan
+           style="text-align:center;text-anchor:middle">into RAM and hands over control</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="15.875817"
+       y="43.351116"
+       id="text3230"><tspan
+         id="tspan3228"
+         x="15.875817"
+         y="43.351116"
+         style="stroke-width:0.264583" /></text>
+  </g>
+</svg>

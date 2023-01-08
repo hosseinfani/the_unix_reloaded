@@ -1,0 +1,5 @@
+I don't know why the IP:PORT of the first connection to the receiver does not make any sense!!
+
+So, the first ACK is not successfull
+
+But the after that it is OK!
